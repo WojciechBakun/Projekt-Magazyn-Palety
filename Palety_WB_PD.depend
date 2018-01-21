@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1516563189 source:c:\users\wojci\desktop\programowanie obiektowe\palety_wb_pd\abstrakcyjna.cpp
+	"Abstrakcyjna.h"
+
+1516569763 c:\users\wojci\desktop\programowanie obiektowe\palety_wb_pd\abstrakcyjna.h
+	<iostream>
+	"Magazyn.h"
+	"Palety.h"
+
+1516569766 c:\users\wojci\desktop\programowanie obiektowe\palety_wb_pd\magazyn.h
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<fstream>
+	<Windows.h>
+	"Palety.h"
+
+1516569770 c:\users\wojci\desktop\programowanie obiektowe\palety_wb_pd\palety.h
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<fstream>
+	<Windows.h>
+
+1516565304 source:c:\users\wojci\desktop\programowanie obiektowe\palety_wb_pd\magazyn.cpp
+	"Magazyn.h"
+	<fstream>
+	<sstream>
+
+1516563975 source:c:\users\wojci\desktop\programowanie obiektowe\palety_wb_pd\main.cpp
+	"Magazyn.h"
+	"Palety.h"
+	"Menu.h"
+	"Abstrakcyjna.h"
+
+1516569767 c:\users\wojci\desktop\programowanie obiektowe\palety_wb_pd\menu.h
+	<iostream>
+
+1516565634 source:c:\users\wojci\desktop\programowanie obiektowe\palety_wb_pd\palety.cpp
+	"Palety.h"
+
