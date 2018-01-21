@@ -7,11 +7,13 @@ Semestr II (zimowy), rok akademicki 2017/2018
 Grupa nr ……….                                                                                                        Data wydania projektu……….
 Dane osobowe grupy:
 ………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
+
 Zadanie projektowe
 Stwórz aplikację umożliwiającą zarządzanie powierzchnią magazynową (półki paletowe) w firmie.
 Wymagania projektowe
 • projekt zaimplementowany z wykorzystaniem podejścia obiektowego,
 • minimum 5 klas, w tym przynajmniej jedna abstrakcyjna klasa bazowa,
+
 • wykorzystanie przynajmniej jednego wzorca projektowego,
 • opracowanie diagramów UML (przypadków użycia, sekwencji oraz klas),
 • przygotowanie dokumentacji w systemie Doxygen,
